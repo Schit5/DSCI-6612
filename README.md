@@ -107,7 +107,7 @@ Deliverables
 
 A readme file.  
 
-IPYNB Code file.  
+PY Code file.  
 
 Evaluation methodology 
 
